@@ -1,6 +1,6 @@
 # ghostty.fish
 
-A fish shell plugin that provides convenient functions for controlling the Ghostty terminal emulator's native progress bar.
+A fish shell plugin that provides convenient functions for controlling the Ghostty terminal emulator's native progress bar. Graphical Progress Bars were added to Ghostty in v1.2.0, see [the release notes](https://ghostty.org/docs/install/release-notes/1-2-0#graphical-progress-bars).
 
 ## Features
 
@@ -98,7 +98,7 @@ example_task
 ## Requirements
 
 - [Fish Shell](https://fishshell.com/) 3.0 or later
-- [Ghostty](https://ghostty.org/) terminal emulator
+- [Ghostty](https://ghostty.org/) 1.2.0 or later
 
 ## License
 
